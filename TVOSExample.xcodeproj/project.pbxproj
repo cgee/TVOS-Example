@@ -151,6 +151,7 @@
 				TargetAttributes = {
 					AAE8D2FD1BA5CEBC0003A4DF = {
 						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = LGGLLYZ682;
 					};
 				};
 			};
@@ -298,9 +299,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = LGGLLYZ682;
 				INFOPLIST_FILE = TVOSExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.christianlysne.TVOSExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cgee.TVOSExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -310,9 +312,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = LGGLLYZ682;
 				INFOPLIST_FILE = TVOSExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.christianlysne.TVOSExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cgee.TVOSExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -336,6 +339,7 @@
 				AAE8D3141BA5CEBC0003A4DF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
